@@ -1,8 +1,4 @@
-Haan bhai, samajh gaya 😄 **problem yeh hai ke jo ` ```text ` aur ` ``` ` hain, woh bhi README mein copy ho rahe hain aur tum unko actual GitHub content ki tarah dekh rahe ho.**
 
-Tumhein **Markdown ka rendered README** chahiye, na ke code block ke andar README.
-
-**GitHub mein `README.md` edit karte waqt neeche wala content direct paste karo.** Is version mein unnecessary outer code block nahi hai:
 
 # 🚀 Tata | GenAI Powered Data Analytics | Geldium
 
@@ -451,8 +447,3 @@ The overall objective is to support a **proactive, data-driven, explainable and 
 
 ---
 
-## ⚠️ Disclaimer
-
-This repository is created for **educational and portfolio purposes** as part of the **Tata – GenAI Powered Data Analytics Virtual Experience on Forage**.
-
-The Geldium case study and associated materials are provided for simulation purposes. The analysis and recommendations are intended to demonstrate analytical thinking, predictive modeling concepts and responsible AI practices rather than provide production financial advice.
