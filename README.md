@@ -1,6 +1,6 @@
 
 
-# 🚀 Tata | GenAI Powered Data Analytics | Geldium 
+# 🚀 Tata | GenAI Powered Data Analytics | Geldium
 
 <p align="center">
 
